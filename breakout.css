@@ -1,0 +1,56 @@
+#header {
+    -fx-font: bold 24pt "Britannic Bold";
+    -fx-text-fill: #000080;
+}
+#breakoutText {
+    -fx-font: bold 30pt "Britannic Bold";
+    -fx-text-fill: #000080;
+}
+ 
+#helpText {
+    -fx-font: 15pt "Arial Light";
+    -fx-text-fill: #000080;    
+}
+#titleText {
+    -fx-font: bold 40pt "Arial Light";
+    -fx-text-fill: #E70FFF; 
+}
+#gameoverText {
+    -fx-font: bold 60pt "Monospaced Bold";
+    -fx-text-fill: red; 
+}
+#levelcompletedText {
+    -fx-font: bold 45pt "Arial Light";
+    -fx-text-fill: #41D91E;    
+}
+#fast {
+    -fx-font: bold 25pt "Britannic Bold";
+    -fx-text-fill: red;
+    
+}
+#info2 {
+    -fx-font: bold 22pt "Arial Light";
+    -fx-text-fill: #000080;
+}
+#info3 {
+    -fx-font: bold 30pt "Arial Light";
+    -fx-text-fill: #41D91E;
+}
+#end {
+     -fx-font:  24pt "Arial Light";
+     -fx-text-fill: #000080;
+}
+#end1 {
+     -fx-font: bold 40pt "Arial Light";
+    -fx-text-fill: #41D91E;
+}
+#score {
+ -fx-font: bold 28pt "Arial Light";
+     -fx-text-fill: #000080;
+    }
+
+    
+
+    
+    
+    
